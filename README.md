@@ -45,3 +45,6 @@ We envision, to support until Q3 2021:
     The most commonly used **controllers with wifi module** 
 
     The 150 most commonly used sensors
+    
+# Let's start
+Please have a look at (our wiki)[https://github.com/autonoma-official/Connectr/wiki/1.-About-this-project] for more detailed information and tutorials.
